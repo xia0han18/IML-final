@@ -9,7 +9,7 @@ yfinance>=0.2.0
 matplotlib>=3.4.0
 seaborn>=0.11.0
 
-# Machine Learning (Classical)
+# Classical Models
 scikit-learn>=1.0.0
 xgboost>=1.5.0
 joblib>=1.1.0
@@ -19,3 +19,4 @@ torch>=1.10.0
 
 # Statistics
 scipy>=1.7.0
+
