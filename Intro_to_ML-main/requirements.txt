@@ -11,7 +11,7 @@ seaborn>=0.11.0
 
 # Classical Models
 scikit-learn>=1.0.0
-xgboost>=1.5.0
+xgboost==2.0.3
 joblib>=1.1.0
 
 # Deep Learning
@@ -19,4 +19,5 @@ torch>=1.10.0
 
 # Statistics
 scipy>=1.7.0
+
 
