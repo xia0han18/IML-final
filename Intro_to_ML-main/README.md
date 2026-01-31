@@ -6,7 +6,6 @@
 
 ## Motivation & General Idea
 Financial market volatility is a nonlinear and challenging time-series prediction problem. Given our interest in financial markets and existing background in finance, the aim of this project is to build and evaluate machine learning models to forecast short-term volatility of the S&P 500 index.  
-This problem is sufficiently challenging for an ML assignment and aligns well with course techniques and our personal interests.
 
 ---
 
