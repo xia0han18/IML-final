@@ -300,33 +300,3 @@ python src/backtest.py
 2. scikit-learn documentation
 3. PyTorch documentation
 4. CBOE VIX Index methodology
-
----
-
-## Authors
-
-- Xiaohan Bao (S4036298)
-- Marcell Szőkedencsi (s5173191)
-- Ana Abadias Alfonso (s5460824)
-
----
-
-## License
-
-This project is for educational purposes as part of the Introduction to Machine Learning course.
-```
-
----
-
-## Also create `requirements.txt`:
-```
-numpy
-pandas
-yfinance
-matplotlib
-seaborn
-scikit-learn
-xgboost
-torch
-scipy
-joblib
